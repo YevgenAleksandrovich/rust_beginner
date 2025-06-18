@@ -1,0 +1,1 @@
+D:\Rust\practice_from_books\rust_beginner_projects\rust_beginner\hello_rust_world\target\debug\hello_rust_world.exe: D:\Rust\practice_from_books\rust_beginner_projects\rust_beginner\hello_rust_world\src\main.rs
