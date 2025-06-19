@@ -1,0 +1,1 @@
+D:\Rust\practice_from_books\rust_beginner_projects\rust_beginner\variables_types\target\debug\variables_types.exe: D:\Rust\practice_from_books\rust_beginner_projects\rust_beginner\variables_types\src\main.rs
