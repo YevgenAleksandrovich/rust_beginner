@@ -1,0 +1,1 @@
+D:\Rust\practice_from_books\rust_beginner_projects\rust_beginner\match_checker\target\debug\match_checker.exe: D:\Rust\practice_from_books\rust_beginner_projects\rust_beginner\match_checker\src\main.rs
