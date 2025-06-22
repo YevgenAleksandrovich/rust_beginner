@@ -1,0 +1,1 @@
+D:\Rust\practice_from_books\rust_beginner_projects\rust_beginner\match_practice_tasks\target\debug\match_practice_tasks.exe: D:\Rust\practice_from_books\rust_beginner_projects\rust_beginner\match_practice_tasks\src\main.rs
