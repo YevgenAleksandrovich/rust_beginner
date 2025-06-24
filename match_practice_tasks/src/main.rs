@@ -96,7 +96,7 @@ fn main (){
 
 
 
-fn level_of_score(score: u8 ) -> &'static  str{
+/*fn level_of_score(score: u8 ) -> &'static  str{
     match score {
         20..= 30 => "a",
         30..= 40 => "n",
@@ -108,7 +108,39 @@ fn level_of_score(score: u8 ) -> &'static  str{
 fn main(){
     println!("our level for score : {}", level_of_score(48));
 }
+*/
 
+//----option---------------------------
+/*fn main(){
+    let maybe_num    = Some(87);
+    match maybe_num{
+        Some(n) => println!("nuber : {}", n),
+        None => println!("no number"),
+    }
+} 
+ */
+
+ //----------Result-------------------------
+
+
+
+fn divide(x: i32, y: i32 ) -> Result<i32, String> {
+
+        if y == 0{
+            Err("cannot divide by zero ".to_string())
+        }else {
+            Ok(x / y)
+        }
+}
+
+
+fn main(){
+    match divide(16,2){
+        Ok(result) => println!("result : {}", result),
+        Err(e) => println!("error : {}", e),
+    } 
+
+}
 
 
 
